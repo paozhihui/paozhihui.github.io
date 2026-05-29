@@ -22,8 +22,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
